@@ -53,10 +53,10 @@ All components are defined and orchestrated in a single `docker-compose.yaml` fi
 Below are example screenshots from the Grafana dashboard, demonstrating the power of unified log and metric visualization:
 
 #### High-Level Overview
-![Dashboard Overview 1](images/dashboard-overview-1.png.png)
+![Dashboard Overview 1](https://github.com/SURYA-PRAKASHA-PK/Log-monitoring-with-Grafana-Loki-and-Prometheus/blob/master/dashboard-overview-1.png.png)
 
 #### Detailed Metrics and Log Correlation
-![Dashboard Overview 2](images/dashboard-overview-2.png.png)
+![Dashboard Overview 2](https://github.com/SURYA-PRAKASHA-PK/Log-monitoring-with-Grafana-Loki-and-Prometheus/blob/master/dashboard-overview-2.png.png)
 
 ---
 
